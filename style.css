@@ -1,0 +1,22 @@
+#navbar { background-color: #EDAFB8;
+  height: 10%; 
+ display: flex;
+   justify-content: center; 
+ border: 1px double #DEDBD2;
+}
+
+.portfolio { color: #4A5759;
+  text-decoration: underline #DEDBD2
+  
+}
+
+.personalinfo { background-color: #B0C4B1;
+  
+  height: 10em;
+  width: 40%;
+ margin: 10px;
+  border: 1px double #DEDBD2;
+}
+.name{ font-size: 10%;
+  
+}
